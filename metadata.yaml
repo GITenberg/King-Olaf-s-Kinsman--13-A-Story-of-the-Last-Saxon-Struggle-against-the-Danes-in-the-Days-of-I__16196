@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4801
     wikipedia: http://en.wikipedia.org/wiki/Charles_W._Whistler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16196#King-Olaf-s-Kinsman--13-A-Story-of-the-Last-Saxon-Struggle-against-the-Danes-in-the-Days-of-I_
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2005-07-03'
 gutenberg_type: Text
